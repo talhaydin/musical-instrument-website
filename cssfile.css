@@ -1,0 +1,20 @@
+.jumbotron{
+    color: purple;
+    background-color: #E9ECEF;
+    height: 180px;
+}
+
+body{background-color: #E9ECEF;}
+
+.lead{color: black;}
+
+ul {
+    list-style-position: inside;
+    display: inline-block;
+    text-align: left;   
+  }
+
+.purple{
+    color: purple;
+}
+
